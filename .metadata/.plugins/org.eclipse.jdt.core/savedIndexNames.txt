@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+C:\TestGitSpace\.metadata\.plugins\org.eclipse.jdt.core
-295165814.index
-3413725848.index
